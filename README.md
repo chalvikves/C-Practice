@@ -9,3 +9,30 @@ Name : Viktor Vestlund
 DOB : 20 July, 1998
 Mobile : 0709-111111
 ```
+
+### version.c
+Should print a sentence when we have the correct version:
+```C
+We are using C18!
+```
+
+### fc.c
+Should print a big F and C using #:
+```C
+######
+#
+#
+#####
+#
+#
+#
+    ######
+  ##      ##
+ #
+ #
+ #
+ #
+ #
+  ##      ##
+    ######
+```
